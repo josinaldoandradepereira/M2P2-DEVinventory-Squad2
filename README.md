@@ -3,9 +3,7 @@
 ![Image](https://user-images.githubusercontent.com/101053966/185769837-ccf6b9cc-4d90-43f7-835a-7ad3feabf94a.jpeg)
 
 
-## Empresa
 
-<p>A empresa responsável pelo projeto é a M2P2 Software Ltda e o squad responsável pelo desenvolvimento é a equipe Black Mirror.</p>
 
 ## Tópicos
 
@@ -20,20 +18,14 @@
 
 ## Descrição do projeto
 <p align="justify">
- Este é o segundo projeto do módulo 2 do curso DEVinHouse do Serviço Nacional de Aprendizagem Industrial - SENAI em parceria com o LAB365 e a empresa Conecta Nuvem. A proposta deste projeto é a construção de uma API com sistema backend de cadastro e empréstimos de itens das empresas para seus funcionários.
- A proposta tem como base um arquivo com requisitos da aplicação e contém um modelo de entidade relacionamento para construção do banco de dados através da utilização das tecnologias python, SQL, postgresql e flask.
+ Este é o primeiro projeto do módulo 3 do curso DEVinHouse do Serviço Nacional de Aprendizagem Industrial - SENAI em parceria com o LAB365 e a empresa Conecta Nuvem. 
 </p>
 
 ## Realização do projeto
 <p align="justify">
- O desenvolvimento foi realizado em grupo simulando o dia-a-dia de uma empresa do ramo de tecnologia através das metodologias ágeis. Utilizamos a metodologia scrum, onde nosso squad é formado por 7 desenvolvedores full stack e o product owner é o professor da turma.
+ O desenvolvimento foi realizado em grupo simulando o dia-a-dia de uma empresa do ramo de tecnologia através das metodologias ágeis. Utilizamos a metodologia scrum
 </p>
-<p align="justify">
- No primeiro dia nos praparamos em uma sprint planning juntamente com a sprint backlog (visto o prazo curto), definindo o formato dos commits, nomes de branchs, realização dos pull requests, taks, e ferramenta para organização do desenvolvimento. Para realização das atividades definimos utilizar o trello, separando os cards como tasks, onde cada desenvolvedor está livre para escolher sua task e arrastar entre os campos definidos na ferramenta, lembrando sempre de deixar o card no campo 'code review' enquanto o pull requst estiver sendo testado.
-</p>
-<p align="justify">
- Todos os dias fizemos a daily, repassando o que foi desenvolvido e se houveram dificuldades. Como o prazo para entrega é curto, todos ajudavam quando ocorria alguma dificuldade entre os desenvolvedores.
-</p>
+
 
 ![imagem_2022-08-18_104446081](https://user-images.githubusercontent.com/101053966/185410294-83c9b492-d931-47bb-8247-09bc27997d17.png)
 
@@ -295,18 +287,4 @@ name: string (Query param não obrigatório)
 </a> 
 </p>
 
-## Agradecimentos
 
-<p align="justify">
- Agradecemos a toda a equipe DEVinHouse, SENAI e LAB365 pela oportunidade e os desafios propostos durante o curso.
-</p>
-<p align="justify">
- Um agradecimento especial para o nosso professor, criador da proposta do projeto e Product Owner do squad <a href="https://github.com/pedrohbsilva" target="_blank" rel="noreferrer">Pedro Henrique B. da Silva</a>, pelas aulas sobre banco de dados, as orientações durante o desenvolvimento do projeto e vínculo de amizade criado.  
-</p>
-
-## Desenvolvedores
-
-| [<sub>Breno Martins</sub><br><img src="https://avatars.githubusercontent.com/u/95316873?v=4" width=100><br>](https://github.com/Breno-MT) | [<sub>Luiz Gustavo Seeman</sub><br><img src="https://avatars.githubusercontent.com/u/101838119?v=4" width=100><br>](https://github.com/Gustavo-Seemann) | [<sub>Marcelo Coelho</sub><br><img src="https://avatars.githubusercontent.com/u/92119579?v=4" width=100><br>](https://github.com/MCoelho222) | 
-| :---: | :---: | :---: |
-| [<sub>Rafael Telles Carneiro</sub><br><img src="https://avatars.githubusercontent.com/u/98103640?v=4" width=100><br>](https://github.com/rafatellescarneiro) | [<sub>Josinaldo Andrade Pereira</sub><br><img src="https://avatars.githubusercontent.com/u/101839277?v=4" width=100><br>](https://github.com/josinaldoandradepereira) | [<sub>Thiago William</sub><br><img src="https://avatars.githubusercontent.com/u/94487053?v=4" width=100><br>](https://github.com/ThiagoW21) | 
-[<sub>Vinicius Possatto Stormoski</sub><br><img src="https://avatars.githubusercontent.com/u/101053966?v=4" width=100><br>](https://github.com/ViniciusPosssatto)
